@@ -95,7 +95,7 @@ export default function Footer() {
         </div>
 
         <div className="mt-14 flex flex-col items-center justify-between gap-4 border-t border-white/8 pt-8 text-xs text-faint md:flex-row">
-          <p>© {new Date().getFullYear()} ASTRALIS Studio — Tous droits réservés.</p>
+          <p>© {new Date().getFullYear()} ASTRALIS Studio — SIRET: 109 915 876 00014 — Tous droits réservés.</p>
           <div className="flex flex-wrap gap-6">
             <Link href="/#faq" className="transition-colors hover:text-mist">
               FAQ

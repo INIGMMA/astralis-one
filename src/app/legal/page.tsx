@@ -42,11 +42,13 @@ export default function LegalPage() {
               <br />
               <strong>Dénomination commerciale :</strong> ASTRALIS Studio
               <br />
-              <strong>Numéro d’immatriculation :</strong> En cours d'attribution par l'INSEE (Dépôt guichet unique INPI effectué).
+              <strong>Numéro SIRET :</strong> 109 915 876 00014
               <br />
-              <strong>Directeur de la publication :</strong> L'exploitant de l'entreprise ASTRALIS.
+              <strong>Numéro SIREN :</strong> 109 915 876
               <br />
-              <strong>Contact client :</strong> support@astralis-room.fr
+              <strong>Directeur de la publication :</strong> Ismain Sabri (Exploitant ASTRALIS).
+              <br />
+              <strong>Contact client :</strong> support@astralis-room.fr / ismainsabri91@hotmail.fr
             </p>
           </section>
 
