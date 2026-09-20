@@ -6,7 +6,6 @@ import Experience from "@/components/sections/Experience";
 import Features from "@/components/sections/Features";
 import Showcase from "@/components/sections/Showcase";
 import Bundles from "@/components/sections/Bundles";
-import Simulator from "@/components/sections/Simulator";
 import Reviews from "@/components/sections/Reviews";
 import Faq from "@/components/sections/Faq";
 import FinalCta from "@/components/sections/FinalCta";
@@ -22,7 +21,6 @@ export default function Home() {
         <Features />
         <Showcase />
         <Bundles />
-        <Simulator />
         <Reviews />
         <Faq />
         <FinalCta />
